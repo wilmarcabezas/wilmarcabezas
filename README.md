@@ -1,6 +1,6 @@
 ## Hola a todos! 👋🎉
 
-Hola, Soy Wilmar Cabezas, desarrollador de software. He trabajado por mas de años desarrollando aplicaciones usando principalmente Nodejs, NextJs y React.
+Hola, Soy Wilmar Cabezas, desarrollador de software. He trabajado por mas de 15 años desarrollando aplicaciones usando principalmente Nodejs, NextJs y React.
 
 Actualmente trabajo con proyectos relacionados con AWS usando SAM, CloudFormation, StepFunctions, DynamoDB ye l framework de Serverless.☁️
 
