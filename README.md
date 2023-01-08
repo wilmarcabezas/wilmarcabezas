@@ -8,7 +8,7 @@ Actualmente trabajo con proyectos relacionados con AWS usando SAM, CloudFormatio
 
 Si tienes alguna pregunta o quieres saber más sobre mí y mis proyectos, no dudes en enviarme un mensaje a través de mi correo electrónico o de mi perfil de LinkedIn. ¡Estoy siempre dispuesto a conocer nuevas personas y hablar de tecnología!
 
-<img src="https://www.myltdexpress.com/images/linked.png" width="20" height="20" alt="LinkedIn">Visita mi perfil de LinkedIn<a href="https://www.linkedin.com/in/wilmarcabezas/">
+<img src="https://www.myltdexpress.com/images/linked.png" width="20" height="20" alt="LinkedIn"> Visita mi perfil de LinkedIn<a href="https://www.linkedin.com/in/wilmarcabezas/">
   https://www.linkedin.com/in/wilmarcabezas/
 </a>
 
