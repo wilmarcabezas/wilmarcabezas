@@ -2,7 +2,7 @@
 
 Hola, Soy Wilmar Aldemar Cabezas Pisco, Desarrollador de software. He trabajado por mas de 15 años desarrollando aplicaciones usando principalmente Nodejs, NextJs y React.
 
-Actualmente trabajo con proyectos relacionados con AWS usando SAM, CloudFormation, StepFunctions, DynamoDB y en especial el framework <b>Serverless</b>.☁️
+Actualmente trabajo con proyectos relacionados con AWS usando SAM, CloudFormation, StepFunctions, DynamoDB y en especial el Framework <b>Serverless</b>.☁️
 
 ## ¿Quieres contactarme? 📩
 
