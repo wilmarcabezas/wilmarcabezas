@@ -1,4 +1,4 @@
-## Hola a todos! 👋👋👋
+## Hola a todos! 👋👋
 
 Holaa todos, Soy Wilmar Aldemar Cabezas Pisco, Desarrollador de software. He trabajado por mas de 15 años desarrollando aplicaciones usando principalmente .Net, Node.js, Next.js, Maui.Net y React.
 
